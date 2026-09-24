@@ -1,0 +1,10 @@
+Context-Aware PR Review
+Copyright 2026 RUSSELL PHILIP SMITHSON
+
+Original project code and September 2026 modifications are licensed under the
+Apache License, Version 2.0. See LICENSE.
+
+This product includes a BC-ALAgents review skill as a design reference.
+Copyright (c) Microsoft Corporation. Its MIT license remains in
+prreview/vendor/LICENSE.BC-ALAgents.txt. See THIRD-PARTY-NOTICES.md.
+This NOTICE does not replace or alter the upstream license.
