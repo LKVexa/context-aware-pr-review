@@ -8,7 +8,7 @@ version = "0.1.2a1"
 description = "Local advisory review of textual unified diffs"
 readme = "README.md"
 requires-python = ">=3.10"
-license = "Apache-2.0 AND MIT"
+license = "GPL-3.0-only AND MIT"
 license-files = ["LICENSE", "NOTICE", "THIRD-PARTY-NOTICES.md", "prreview/vendor/LICENSE.*.txt"]
 authors = [{name = "RUSSELL PHILIP SMITHSON"}]
 dependencies = []

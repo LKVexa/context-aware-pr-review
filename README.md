@@ -65,6 +65,6 @@ Reports and digests are provenance aids, not signatures or a proof of security.
 ## License
 
 Copyright 2026 **RUSSELL PHILIP SMITHSON**. Original code and modifications:
-[Apache License 2.0](LICENSE), with [NOTICE](NOTICE).
+[GNU General Public License, version 3 only (GPL-3.0-only)](LICENSE), with [NOTICE](NOTICE).
 The bundled BC-ALAgents design reference retains its MIT license; see
 [third-party notices](THIRD-PARTY-NOTICES.md).
